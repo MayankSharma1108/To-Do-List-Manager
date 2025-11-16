@@ -57,6 +57,32 @@ The script works on **Linux** and all **Unix-based systems**.
 
 ---
 
+# 📸 Program Outputs
+
+---
+
+## 🟩 **Adding a Task**
+
+<img width="767" height="947" alt="Adding Task 1" src="https://github.com/user-attachments/assets/15a72c4c-97be-43aa-9179-9dd56cf48665" />
+
+<img width="766" height="946" alt="Adding Task 2" src="https://github.com/user-attachments/assets/51462d83-9b8c-4695-b5ea-99ecbe2e93c8" />
+
+---
+
+## 🟦 **Viewing Tasks**
+
+<img width="711" height="592" alt="View Tasks" src="https://github.com/user-attachments/assets/d73b5130-739b-4a87-a840-19b284c8fee6" />
+
+---
+
+## 🟥 **Deleting a Task**
+
+<img width="802" height="730" alt="Delete Task 1" src="https://github.com/user-attachments/assets/484014d6-60a1-4aa1-9555-7b213b7d3d1e" />
+
+<img width="1197" height="1069" alt="Delete Task 2" src="https://github.com/user-attachments/assets/dbd114e6-e175-4f4a-b905-faaa843a98d6" />
+
+---
+
 ## 🚀 How to Run the Script
 
 ```bash
